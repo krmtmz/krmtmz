@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem Temiz</h1>
-<h3 align="center">I'm a human being who's trying to become a 'Junior' in something, and because of that, I'm currently learning some Front-End programming languages. I hope that one day I can call myself a qualified unemployed person.</h3>
+<h3 align="center">I'm a human being who's trying to become a 'Junior' in something, and because of that, I'm currently learning some Front-End programming languages. I hope that one day I can call myself a qualified unemployed person. :grinning: </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krmtmz&label=Profile%20views&color=0e75b6&style=flat" alt="krmtmz" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tmzkerem@gmail.com**
 
-- ⚡ Fun fact **I can make jokes about everything :D Also im a huge fan of the dark side. I mean dark humor.**
+- ⚡ Fun fact **I can make jokes about everything :smile: Also im a huge fan of the dark side. I mean dark humor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
